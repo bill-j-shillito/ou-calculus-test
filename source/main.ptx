@@ -53,9 +53,12 @@
         <title>Section title</title>
         <p>Hello</p>
         <p>This is a test of some stuff</p>
+        <p>And some other stuff too!</p>
       </section>
 
     </chapter>
+
+    <xi:include href="monkeys.xml" />
 
     <backmatter xml:id="backmatter">
       <title>Backmatter</title>

@@ -1,0 +1,11 @@
+<chapter xml:id="chapter-title-two">
+    <title>Chapter title two</title>
+
+    <section xml:id="section-title-two">
+      <title>Section title</title>
+      <p>Hello</p>
+      <p>This is a test of some stuff</p>
+      <p>And some other stuff too!</p>
+    </section>
+
+  </chapter>
