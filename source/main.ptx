@@ -11,9 +11,9 @@
     </latex-image-preamble>
   </docinfo>
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <book xml:id="calculus-iiik">
+    <title>Calculus III</title>
+    <subtitle>An Applications-First Approach to Multivariable Calculus</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
@@ -31,9 +31,9 @@
 
         <website>
           <name>
-            <c>example.org</c>
+            <c>solidangl.es</c>
           </name>
-          <address>https://example.org</address>
+          <address>https://www.solidangl.es</address>
         </website>
 
         <copyright>
@@ -46,6 +46,7 @@
       </colophon>
     </frontmatter>
 
+    <!--
     <chapter xml:id="chapter-title">
       <title>Chapter title</title>
 
@@ -57,14 +58,15 @@
       </section>
 
     </chapter>
+    -->
 
-    <xi:include href="chapter.ptx" />
+    <xi:include href="chapter-3dgeo.ptx" />
 
     <backmatter xml:id="backmatter">
       <title>Backmatter</title>
 
       <colophon>
-        <p> This book was authored in <pretext />. </p>
+        <p> This book was authored in <pretext /> with the help of OpenAI's ChatGPT. </p>
       </colophon>
 
     </backmatter>
