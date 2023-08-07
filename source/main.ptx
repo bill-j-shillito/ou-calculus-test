@@ -58,7 +58,7 @@
 
     </chapter>
 
-    <xi:include href="chapter.xml" />
+    <xi:include href="chapter.ptx" />
 
     <backmatter xml:id="backmatter">
       <title>Backmatter</title>
