@@ -7,23 +7,14 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "   example.org   https:\/\/example.org   copyright  "
+  "body": "   solidangl.es   https:\/\/www.solidangl.es   copyright  "
 },
 {
-  "id": "section-title",
+  "id": "section-3d-coordinates",
   "level": "1",
-  "url": "section-title.html",
+  "url": "section-3d-coordinates.html",
   "type": "Section",
   "number": "1.1",
-  "title": "Section title",
-  "body": " Section title  Hello  This is a test of some stuff  And some other stuff too!  "
-},
-{
-  "id": "section-title-two",
-  "level": "1",
-  "url": "section-title-two.html",
-  "type": "Section",
-  "number": "2.1",
   "title": "Section title",
   "body": " Section title  Hello  This is a test of some stuff  And some other stuff too!  "
 },
@@ -34,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": " This book was authored in PreTeXt .  "
+  "body": " This book was authored in PreTeXt with the help of OpenAI's ChatGPT.  "
 }
 ]
 
