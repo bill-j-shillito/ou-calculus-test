@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section title",
-  "body": " Section title  Hello  "
+  "body": " Section title  Hello  This is a test of some stuff  "
 },
 {
   "id": "colophon-2",
