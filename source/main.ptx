@@ -46,20 +46,6 @@
       </colophon>
     </frontmatter>
 
-    <!--
-    <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
-
-      <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
-        <p>This is a test of some stuff</p>
-        <p>And some other stuff too!</p>
-      </section>
-
-    </chapter>
-    -->
-
     <xi:include href="chapter-3dgeo.ptx" />
 
     <backmatter xml:id="backmatter">
