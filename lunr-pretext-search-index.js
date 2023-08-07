@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Section title",
-  "body": " Section title  Hello  This is a test of some stuff  "
+  "body": " Section title  Hello  This is a test of some stuff  And some other stuff too!  "
+},
+{
+  "id": "section-title-two",
+  "level": "1",
+  "url": "section-title-two.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Section title",
+  "body": " Section title  Hello  This is a test of some stuff  And some other stuff too!  "
 },
 {
   "id": "colophon-2",
